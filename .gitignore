@@ -1,2 +1,5 @@
 venv/
 /venv
+workspace.xml
+tasks.xml
+profiles_settings.xml
